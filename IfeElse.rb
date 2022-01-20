@@ -25,14 +25,14 @@ puts "A > B" if a > b
 
 a = 21
 
-if a = 10 
+if a == 10 
     puts "mensagem caso verdade"
     puts "outra linha caso verdade"
 
-elsif a = 20
+elsif a == 20
     puts "essa mensagem se caso o a seja 20"
 
-elsif a = 21
+elsif a == 21
     puts " o valorde a é = a 21"
 
 else
@@ -40,3 +40,5 @@ else
 end
     
 puts "..| fim do programa"
+
+
