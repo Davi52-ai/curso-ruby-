@@ -1,0 +1,8 @@
+MAX_USUARIOS = 10
+MAX_USUARIOS = 100
+
+class Carro
+    MODELOS DISPONIVEIS = ['MOdel X', 'Model S']
+end
+
+Carro::MODELOS_DISPONIVEIS
