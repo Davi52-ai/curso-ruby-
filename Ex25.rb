@@ -1,4 +1,4 @@
-module Ex25
+module Ex25.rb
 
     # Esta função irá quebrar as palavras para nós.
     def Ex25.break_words(stuff)

@@ -22,3 +22,4 @@ listar_usuarios 10, debug
 listar_usuarios 10, debug do |usuarios|
     puts "Total de usuarios: #{usuarios.size}"
 end
+
